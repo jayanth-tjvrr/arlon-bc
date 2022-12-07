@@ -1,0 +1,5 @@
+resources:
+- capi-quickstart-eks.yaml
+
+patches:
+- https://github.com/jayanth-tjvrr/arlon-patches/tree/main/patches/arlon-1
