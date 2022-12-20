@@ -55,7 +55,7 @@ metadata:
 spec:
   template:
     spec:
-      iamInstanceProfile: e2e-nodes.cluster-api-provider-aws.sigs.k8s.io
+      iamInstanceProfile: arlonstack-nodes.cluster-api-provider-aws.sigs.k8s.io
       instanceType: t2.medium
       sshKeyName: jayanth
 ---
